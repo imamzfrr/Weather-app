@@ -9,3 +9,6 @@ currently display Malang city weather
 - Icons depicting weather conditions
 - Wind speed
 - Weekly forecast 7 days ahead
+
+## Screenshot app
+![Screenshot_20240613_143731](https://github.com/imamzfrr/Weather-app/assets/80440606/f1cee70b-222d-4b59-ac88-1b449da7d09d)
